@@ -9,5 +9,6 @@
 | Repository | What it is | Status |
 |---|---|---|
 | [**twin-page**](https://github.com/FFD-Labs/twin-page) | The page a bag opens. A visitor scans the QR code on a bag of freeze-dried fruit, and their own device reads the bag's records from Ethereum and Swarm and checks them. No server in between. One HTML file, published with its hash. | In progress, for Devcon 8 (Mumbai, 2 to 6 November 2026). Apache 2.0. |
+| [**pouch-pocket**](https://github.com/FFD-Labs/pouch-pocket) | The pocket of a pouch. Scan the sticker on a pouch and your device works out its Ethereum address, as text and as a QR code, for anyone to send anything to. One HTML file that can make no request at all. | For Devcon 8 (Mumbai, 2 to 6 November 2026). Apache 2.0. |
 | [**BDF**](https://github.com/FFD-Labs/BDF) | The Bio-Digital Footprint protocol on Swarm, as a demo. The sensor data of one lot through harvest, transport and drying: each phase is encoded as BeeSon, uploaded to a Bee node and anchored on a Swarm feed. | Demo, April 2026. |
 | [**BDF-smart-contracts**](https://github.com/FFD-Labs/BDF-smart-contracts) | The on-chain side of that demo, on Sepolia. One token per batch of raw product and one per retail package, each pointing at its records on Swarm, and the operator console that runs the path from harvest to packaging. | Demo, April 2026. |
